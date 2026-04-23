@@ -1,0 +1,12 @@
+opencv-python
+numpy
+torch
+torchvision
+pygame
+requests
+face_recognition
+onnxruntime
+Pillow
+scikit-learn
+tqdm
+jupyter
